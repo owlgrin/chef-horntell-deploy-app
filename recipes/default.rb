@@ -1,8 +1,5 @@
-#
-# Cookbook Name:: deploy-app
-# Recipe:: default
-#
-# Copyright (C) 2014 YOUR_NAME
-#
-# All rights reserved - Do Not Redistribute
-#
+git '/home/ubuntu/apps/app' do
+	repository 'gitlab@gitlab.owlgrin.com:horntell/app.git'
+	revision 'deploy'
+	action :sync
+end
