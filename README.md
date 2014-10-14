@@ -1,6 +1,6 @@
 # deploy-app-cookbook
 
-TODO: Enter the cookbook description here.
+The cookbook deploys the Horntell front-end on the production servers.
 
 ## Supported Platforms
 
