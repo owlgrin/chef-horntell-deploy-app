@@ -4,7 +4,7 @@ The cookbook deploys the Horntell front-end on the production servers.
 
 ## Supported Platforms
 
-Ubuntu.
+Ubuntu 14.04.
 
 ## Attributes
 
